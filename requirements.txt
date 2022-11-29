@@ -2,6 +2,8 @@ numpy
 sympy
 ipython
 ipykernel
+ipywidgets
+ipython-genutils
 jupyter
 jupyter-console
 jupyter-core
@@ -13,3 +15,4 @@ jupyterlab-widgets
 jupyterlab_server
 pandas
 matplotlib
+matplotlib-inline
