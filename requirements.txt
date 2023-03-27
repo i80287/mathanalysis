@@ -17,3 +17,6 @@ jupyterlab_server
 pandas
 matplotlib
 matplotlib-inline
+PyQt6
+PySide6
+ipympl
